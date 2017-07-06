@@ -1,4 +1,4 @@
-var fr = 140; //framerate
+var fr = 10; //framerate
 
 
 function setup() {
